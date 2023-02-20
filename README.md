@@ -30,5 +30,5 @@ often do they return to Instacart)?
 Income? Certain types of goods? Family status?
 6. What differences can you find in ordering habits of different customer profiles?
 Consider the price of orders, the frequency of orders, the products customers are
-ordering, and anything else you can think of.
+ordering, and anything else.
 
